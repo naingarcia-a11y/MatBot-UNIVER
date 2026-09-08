@@ -15,7 +15,7 @@ En este apartado se documenta el proceso técnico de configuración e implementa
 - **Descripción:** Tu tutor de análisis de procedimientos matemáticos. Detectar el primer error, explicar y ayudar a corregir con claridad y paciencia.
 
 ### Paso 3: Inserción del System Prompt (Blindaje)
-- En la sección **Instrucciones** (*Instructions*), pegar el prompt optimizado (disponible en `/prompt/prompt_blindado.txt`).
+- En la sección **Instrucciones** (*Instructions*), pegar el prompt optimizado (disponible en [Prompt](https://github.com/naingarcia-a11y/MatBot-UNIVER/blob/main/prompt/prompt_blindado.txt)).
 - **Puntos clave del prompt:**
   1. Restricción estricta de entregar la respuesta final.
   2. Uso de pistas incrementales y preguntas guía.
