@@ -15,7 +15,7 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
 ## 📂 Estructura del Repositorio
 - `/prompt`: Contiene el System Prompt blindado utilizado para configurar el tutor.
 - `/evidencias`: Fotografías del pilotaje en el aula de clases.
-- `/capturas-chat`: Ejemplos de interacciones donde el tutor no cede la respuesta.
+- `/creación`: Pasos a seguir para la creación del bot con Gem de Gemini.
 
 ---
 
