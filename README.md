@@ -23,7 +23,7 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
 - **Nivel:** Preparatoria
 - **Participantes:** 
     Docentes: 2
-    Alumnos: 14
+    Alumnos: 51
 - **Resultado principal:** Los alumnos lograron resolver ejercicios de álgebra y geometría identificando sus propios errores mediante las pistas del tutor.
 
 **Pruebalo tu mismo [aqui](https://gemini.google.com/gem/1L3R8V4uVaEnjWS4R5jpb0S5HniK-JtRV?usp=sharing)**
