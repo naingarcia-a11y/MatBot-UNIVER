@@ -26,4 +26,12 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
     Alumnos: 51
 - **Resultado principal:** Los alumnos lograron resolver ejercicios de álgebra y geometría identificando sus propios errores mediante las pistas del tutor.
 
+**Daniel Pacas**
+Me parece que es una buena herramienta para dar seguimiento a la explicación que se proporciona en clase.
+Sobre todo para el alumno que se haya quedado con dudas sobre un procedimiento.
+
+**Gregorio Sinue**
+Me aparece muy buena herramienta para los alumnos los ayuda a comprénder más los temas y no quedarce con dudas ...
+Ayuda al autoconocimiento individual.
+
 **Pruebalo tu mismo [aqui](https://gemini.google.com/gem/1L3R8V4uVaEnjWS4R5jpb0S5HniK-JtRV?usp=sharing)**
