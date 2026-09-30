@@ -23,7 +23,7 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
 - **Nivel:** Preparatoria
 - **Participantes:** 
     Docentes: 2
-    Alumnos: 51
+    Alumnos: 55
 - **Resultado principal:** Los alumnos lograron resolver ejercicios de álgebra y geometría identificando sus propios errores mediante las pistas del tutor.
 
 **Daniel Pacas**
