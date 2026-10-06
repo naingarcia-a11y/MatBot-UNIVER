@@ -22,8 +22,8 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
 ## 👥 Resumen del Pilotaje en Aula
 - **Nivel:** Preparatoria
 - **Participantes:** 
-    Docentes: 2
-    Alumnos: 55
+    Docentes: 4
+    Alumnos: 114
 - **Resultado principal:** Los alumnos lograron resolver ejercicios de álgebra y geometría identificando sus propios errores mediante las pistas del tutor.
 
 **Daniel Pacas**
