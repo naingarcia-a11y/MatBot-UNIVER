@@ -16,6 +16,7 @@ El Gem está configurado mediante un método socrático para **guiar al estudian
 - `/prompt`: Contiene el System Prompt blindado utilizado para configurar el tutor.
 - `/evidencias`: Fotografías del pilotaje en el aula de clases.
 - `/creacion`: Pasos a seguir para la creación del bot con Gem de Gemini.
+- `/encuesta`: Opiniones de los estudiantes involucrados.
 
 ---
 
